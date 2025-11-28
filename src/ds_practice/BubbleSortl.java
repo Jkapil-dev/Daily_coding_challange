@@ -2,7 +2,7 @@ package ds_practice;
 
 import java.util.Arrays;
 
-public class bubbleSortl {
+public class BubbleSortl {
     static void sort(int[] arr){
 
         for (int i = 0; i < arr.length; i++) {
