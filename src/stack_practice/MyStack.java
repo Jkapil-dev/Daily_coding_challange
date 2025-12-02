@@ -1,8 +1,8 @@
 package stack_practice;
 
-class Node{
-public int data;
-public  Node next;
+class Node {
+    int data;
+    Node next;
 public Node(int data_var){
     this.data=data_var;
     this.next=null;
